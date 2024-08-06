@@ -10,11 +10,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently wark as **MERN Stack Developer**
 
 - 🧑‍🎓 I’m an Trainee Software Engineer at **Sri Lanka Telecom**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **dilanpramodhya44@gmail.com**
   
