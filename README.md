@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **dilanpramodhya44@gmail.com**
   
-- ⚡ Fun fact **Call me as Dila**
+- ⚡ Fun fact: **Call me as Dila**
 
 </td>
 <td width="50%" align="center">
