@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center"><img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Hi 👋, I'm Dilan Pramodhya</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /></h1>
-<h3 align="center">Trainee Fullstack React Developer | Exploring the Boundless World of Technology</h3>
+<h3 align="center">Trainee Fullstack Developer | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilanpramodhya&label=Profile%20views&color=0e75b6&style=flat" alt="dilanpramodhya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dilan_pramodhya" target="blank"><img src="https://img.shields.io/twitter/follow/dilan_pramodhya?logo=twitter&style=for-the-badge" alt="dilan_pramodhya" /></a> </p>
